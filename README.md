@@ -1,4 +1,4 @@
-# EXP-03-IMPLEMENTATION OF HALF ADDER AND FULL ADDER CIRCUIT
+# EXP-04-IMPLEMENTATION OF HALF ADDER AND FULL ADDER CIRCUIT
 # AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
